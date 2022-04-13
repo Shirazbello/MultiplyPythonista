@@ -1,7 +1,6 @@
-#  *MultiplyPythonista* contains a simple Python Script for **Multiplying Two numbers**
-entered from Terminal
-![alt Multiplication image](/Models/Multiply.png)
-
+# *MultiplyPythonista* contains a simple Python Script for **Multiplying Two numbers** # entered from Terminal
+![alt Multiplication image](/Models/Multiply.png =x512)
+---
 ## HOW TO RUN <span style="color:blue">*MultiplyPythonista* </span>
 The script is located in the [Model](./Models/) folder.
 - Go into the Models Folder
